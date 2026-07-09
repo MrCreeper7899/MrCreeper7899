@@ -1,16 +1,30 @@
-## Hi there 👋
+#  Hi, I'm Mr_Creeper789
 
-<!--
-**MrCreeper7899/MrCreeper7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a hobby developer passionate about building software and improving my skills through hands-on projects. I enjoy learning by doing and continuously exploring new areas of development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently working on
+
+I’m working on several projects across web development, game development, and app development. My main focus is improving my overall programming skills and building projects that help me grow as a developer.
+
+---
+
+## 🛠️ Tools & Technologies
+
+I mainly work with:
+
+* Java
+* TypeScript / React (.tsx)
+* CSS
+* Unity
+
+I use these technologies to build different kinds of applications and experiment with new ideas.
+
+---
+
+## 📫 How to reach me
+
+* Instagram (best way to contact me)
+* YouTube & Twitch (Minecraft content)
+* GitHub (projects & repositories)
